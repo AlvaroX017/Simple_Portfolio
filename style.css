@@ -293,3 +293,12 @@ a:hover {
     visibility: visible;
     font-size: 14px;
 }
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: #4a28ea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
