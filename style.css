@@ -59,6 +59,14 @@ a:hover {
     background-color: #ffffff;
 }
 
+.languages{
+    padding: 5px; 
+    margin-top: 1.5rem;
+    transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
+    letter-spacing: 25px;
+}
+
+
 @keyframes backgroundTransition {
     0% {
         background-position:  0% 80%;
